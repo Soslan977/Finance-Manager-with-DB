@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Finance_Manager.models
 {
-    public class Transaction
+    public class Transaction//lflf
     {
         public int Id { get; set; }
         public int CategoryId { get; set; }
